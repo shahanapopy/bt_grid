@@ -1,0 +1,36 @@
+.box{
+	min-height: 80px;
+	background-color: red;
+	margin-bottom: 5px;
+}
+.box1{
+	min-height: 80px;
+	background-color: green
+	;
+	margin-bottom: 5px;
+}
+.box2{
+	min-height: 80px;
+	background-color: blue;
+	margin-bottom: 5px;
+}
+.box3{
+	min-height: 80px;
+	background-color: black;
+	margin-bottom: 5px;
+}
+.box4{
+	min-height: 80px;
+	background-color: yellow;
+	margin-bottom: 5px;
+}
+.box5{
+	min-height: 80px;
+	background-color: pink;
+	margin-bottom: 5px;
+}
+.box6{
+	min-height: 80px;
+	background-color: teal;
+	margin-bottom: 5px;
+}
